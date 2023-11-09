@@ -6,20 +6,8 @@
 Those are all my guided projects that I have completed on coursera. The Coursera terms & conditions do not allow to post screenshots and logs because the content is free for personal use. But here are all the certifications that I received for completing the projects and post-project assessment quiz.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>Google Docs</b> 
-
-<h2>Environments Used </h2>
-
-- <b>Mac OS Ventura 13.4</b>
-
-<h2>Incident report walk-through:</h2>
-
 <p align="center">
-My incident report: <br/>
-<img src="https://i.imgur.com/UoMoZEv.png" height="80%" width="80%" alt="incidentrep"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Favatars%2FCoursera%2FTed0KExRoBIq.png&f=1&nofb=1&ipt=25c59c0aa8206976fc3d8971ff1aa150d32aa388666e8ef2123b83069e33c196&ipo=images" height="30%" width="30%" alt="courseralogo"/>
 <br />
 <br />
 <br />
