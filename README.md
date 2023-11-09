@@ -16,8 +16,17 @@ IBM Microsoft Windows Defender and Firewall for Beginners <br />
 Skills: Information Security, Microsoft Windows Defender, Cybersecurity, Cyber defense, Troubleshooting <br />
  (https://www.coursera.org/account/accomplishments/certificate/KE36EJGEJMU2)<br/>
 <img src="https://i.imgur.com/3cgkMsz.png" height="40%" width="40%" alt="exemplar"/>
+<br /><br /><br />
+Wireshark for Beginners: Capture Packets<br />
+Skills: Wireshark Packet Capture, Ethernet, Network Packets, Wireshark, Wireshark Filters <br />
+ (https://www.coursera.org/account/accomplishments/certificate/5WPW4VE27Z6G)<br/>
+<img src="https://i.imgur.com/FekHaEM.png" height="40%" width="40%" alt="exemplar"/>
+<br /><br /><br />
+ IBM Microsoft Windows Defender and Firewall for Beginners <br />
+Skills: Network Security, Internet Protocol (IP) Suite, Cybersecurity, Computer Network <br />
+ (https://www.coursera.org/account/accomplishments/certificate/KE36EJGEJMU2)<br/>
+<img src="https://i.imgur.com/vYa40jU.png" height="40%" width="40%" alt="exemplar"/>
 <br />
-
 <!--
  ```diff
 - text in red
