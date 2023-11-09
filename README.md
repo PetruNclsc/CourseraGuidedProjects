@@ -12,8 +12,10 @@ Those are all my guided projects that I have completed on coursera. The Coursera
 <br />
 <br />
 <br />
-The project Exemplar file. *received post-project to assess the similarity and level of fidelity to the Incident response framework.*<br/>
-<img src="https://i.imgur.com/VqpE5Cr.png" height="80%" width="80%" alt="exemplar"/>
+IBM Microsoft Windows Defender and Firewall for Beginners <br />
+Skills: Information Security, Microsoft Windows Defender, Cybersecurity, Cyber defense, Troubleshooting <br />
+ (https://www.coursera.org/account/accomplishments/certificate/KE36EJGEJMU2)<br/>
+<img src="https://i.imgur.com/3cgkMsz.png" height="40%" width="40%" alt="exemplar"/>
 <br />
 
 <!--
