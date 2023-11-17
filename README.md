@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Those are all my guided projects that I have completed on coursera. The Coursera terms & conditions do not allow to post screenshots and logs because the content is for personal use. But here are all the certifications that I received for completing the projects and post-project assessment quiz.
+Those are all my guided projects that I have completed on coursera. The Coursera terms & conditions do not allow to post screenshots and logs because the content is for personal use. But here are all the certifications that I received for completing the projects and post-project assessment quiz. *If you press on "verify at" you'll be able to see the details of what skills the project prepared me for.*
 <br /> <br />
 
 <p align="center">
